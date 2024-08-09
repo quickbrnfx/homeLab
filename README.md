@@ -36,5 +36,12 @@ https://www.youtube.com/watch?v=1lXSdg-8evA
 
 jeffgeerling
 
+selfhost the interent
+https://www.youtube.com/watch?v=OC67FoXVRPE
 
+starting journey
+https://www.youtube.com/watch?v=3-Nm15utD3g
+
+turing pi 2 for ML, clustering, etc
+https://turingpi.com/product/turing-pi-2-5/
 
