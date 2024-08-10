@@ -1,16 +1,39 @@
 # homeLab
 
 
-## NAS
+## NAS (& Home Server
 
 ### Why NAS?
 
 Centralization
 
+Needs:
+
+Home Server Tasks - Run Plex, Multiple users
+
+NAS Tasks - Data Storage, Multiple users
+
+Networking Education
+
+Requirements:
+
+Integrated GPU
+
+4 - 8 Bays
+
+PCie expandability
+
+NVme expandability
+
+NIC (10Gb desired)
+
+
+
 ### How NAS?
 
-First things first, chassis
-Fractal Node 804
+First things first, chassis. Rolled the dice and got a sweet deal off of Mercari:
+
+Fractal Node 804 ($50)
 
 SATA expansion
 https://www.amazon.com/LSI-Broadcom-9300-8i-PCI-Express-Profile/dp/B00DSURZYS
