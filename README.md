@@ -69,6 +69,10 @@ https://www.youtube.com/watch?v=_sfddZHhOj4
 part 2
 https://www.youtube.com/watch?v=BoMlfk397h0
 
+Setting SSL certs
+https://www.youtube.com/watch?v=qlcVx-k-02E
+
+
 
 
 ### Future NAS?
