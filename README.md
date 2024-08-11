@@ -52,7 +52,14 @@ https://serverpartdeals.com/collections/manufacturer-recertified-drives/products
 
 tailscle (secure remote access)
 
-### When NAS?
+
+### Setup
+
+Passing a physical drive through to a VM in ProxMox
+https://www.youtube.com/watch?v=U-UTMuhmC1U
+
+
+### Future NAS?
 
 
 
