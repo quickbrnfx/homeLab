@@ -63,8 +63,13 @@ https://www.youtube.com/watch?v=U-UTMuhmC1U
 3(?) Plex Servers - One for internal, One for external Users, one for testing
 https://www.reddit.com/r/PleX/comments/18q5v5y/pros_cons_for_jellyfin_vs_plex/
 
-Setup beginning to end (Proxmox, two vms (truenas (in my case unraid), and debian), portainer, wireguard (to connect remotely securely), jellyfin server
+Setup beginning to end (Proxmox, two vms (truenas (in my case unraid), and debian), portainer, wireguard (to connect remotely securely), jellyfin server Part 1
 https://www.youtube.com/watch?v=_sfddZHhOj4
+
+part 2
+https://www.youtube.com/watch?v=BoMlfk397h0
+
+
 
 ### Future NAS?
 
