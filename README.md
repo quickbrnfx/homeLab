@@ -25,7 +25,16 @@ PCie expandability
 
 NVme expandability
 
+NVMe vs SATA
+
+
 NIC (10Gb desired)
+
+
+### What Roles?
+
+hypervisor (with a virtualized NAS)
+https://www.youtube.com/watch?v=hJHpVi9LGqc
 
 
 
@@ -50,6 +59,13 @@ tailscle (secure remote access)
 
 ### Resources:
 
+linux distros
+https://www.youtube.com/watch?v=E6Jyj6whge4&t=0s
+
+proxmox vms and automating them
+https://www.youtube.com/watch?v=1nf3WOEFq1Y&t=0s
+https://www.youtube.com/watch?v=dvyeoDBUtsU&t=0s
+
 https://www.youtube.com/@CraftComputing
 Whole network ad-blocking, setting up plex, vpn gateway
 
@@ -67,4 +83,9 @@ https://www.youtube.com/watch?v=3-Nm15utD3g
 
 turing pi 2 for ML, clustering, etc
 https://turingpi.com/product/turing-pi-2-5/
+
+Best homeserver operating systems
+https://www.youtube.com/watch?v=xWz_-gyv3j4
+
+
 
