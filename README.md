@@ -7,6 +7,8 @@
 
 Centralization
 
+Media Consumption
+
 Needs:
 
 Home Server Tasks - Run Plex, Multiple users
@@ -58,6 +60,11 @@ tailscle (secure remote access)
 Passing a physical drive through to a VM in ProxMox
 https://www.youtube.com/watch?v=U-UTMuhmC1U
 
+3(?) Plex Servers - One for internal, One for external Users, one for testing
+https://www.reddit.com/r/PleX/comments/18q5v5y/pros_cons_for_jellyfin_vs_plex/
+
+Setup beginning to end (Proxmox, two vms (truenas (in my case unraid), and debian), portainer, wireguard (to connect remotely securely), jellyfin server
+https://www.youtube.com/watch?v=_sfddZHhOj4
 
 ### Future NAS?
 
