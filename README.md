@@ -9,6 +9,8 @@ Centralization
 
 Media Consumption
 
+NAS VM connected to embedded HW (run weekly to monthly diagnostics on HW through automation)
+
 Needs:
 
 Home Server Tasks - Run Plex, Multiple users
