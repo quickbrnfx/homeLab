@@ -79,10 +79,14 @@ https://www.youtube.com/watch?v=qlcVx-k-02E
 
 ### Future NAS?
 
+Insert future goals here
 
+<details>
+<summary> 
+  
+  ### Resources 
 
-
-### Resources:
+</summary>
 
 linux distros
 https://www.youtube.com/watch?v=E6Jyj6whge4&t=0s
@@ -111,6 +115,56 @@ https://turingpi.com/product/turing-pi-2-5/
 
 Best homeserver operating systems
 https://www.youtube.com/watch?v=xWz_-gyv3j4
+</details>
 
+<details>
+<summary>
+
+  # Projects
+</summary>
+
+### Rpi5 NAS - The beginning
+
+Although I am simulatenously building a larger NAS / Home Server - I still see value in working in more resource constrained environments. I think the rpi is the perfect introduction to this environment with respect to a home lab. I have used rpi's many times before and deployed simple python scripts on them and remoted in, but thats about it. I am not sure what this will turn out to be - but for now, my main goal would look something like a secondary storage. My first step on this path is spinning up the pi and putting pihole on it while I wait for the rest of my components to come in for the larger server. Once I get this up and running and get comfortable with the environment, I will see how and what this rpi can be repurposed to do. I envision it will have many lives and accomplish many tasks.
+
+Specs:
+
+- Raspberry Pi 5 4 GB
+- Raspberry Pi SC1148 Active Cooler (Optional - it was cheap and i thought it would be fun to try one out)
+- 2x ADATA ISSS31D 1TB SSD
+- 2x ADP001 SATA to USB 3.0 Adapter
+
+Notes: Install from network because I am too lazy to wipe one of my microSDs and i also want to keep those cards for my cameras for a trip coming up.
+
+
+
+1. piHole Ad Blocker (with OS install over the network)
+
+For my first basic project, I would like to install an rpi OS and get pihole up and running on my home network. Then some basic testing to see if it is working.
+
+- Hooking up the components
+  First, I removed the adhesive backing from the plastic cooler and installed it onto the pi. Then i plugged the fan connector into the 4 pin port labeled FAN (J12). Then I plugged in the sata to usb adapter and connected it to one of the ADATA drives.
+
+- Apply Power and networking
+  Now I connect power through USB-C to the pi and directly connect the pi to my network through a wired ethernet connection.
+
+- Install pi OS over the network
+Using the following guide https://www.raspberrypi.com/documentation/computers/getting-started.html#install-over-the-network I installed a pi OS over the network.
+
+
+
+- 
+
+  
+
+
+
+
+2. NAS style 3D printed enclosure
+
+
+
+  
+</details>
 
 
