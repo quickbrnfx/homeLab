@@ -143,12 +143,15 @@ Notes: Install from network because I am too lazy to wipe one of my microSDs and
 For my first basic project, I would like to install an rpi OS and get pihole up and running on my home network. Then some basic testing to see if it is working.
 
 - Hooking up the components
+  
   First, I removed the adhesive backing from the plastic cooler and installed it onto the pi. Then i plugged the fan connector into the 4 pin port labeled FAN (J12). Then I plugged in the sata to usb adapter and connected it to one of the ADATA drives.
 
 - Apply Power and networking
+  
   Now I connect power through USB-C to the pi and directly connect the pi to my network through a wired ethernet connection.
 
 - Install pi OS over the network
+  
 Using the following guide https://www.raspberrypi.com/documentation/computers/getting-started.html#install-over-the-network I installed a pi OS over the network.
 
 
