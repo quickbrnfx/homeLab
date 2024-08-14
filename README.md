@@ -152,7 +152,13 @@ For my first basic project, I would like to install an rpi OS and get pihole up 
 
 - Install pi OS over the network
   
-Using the following guide https://www.raspberrypi.com/documentation/computers/getting-started.html#install-over-the-network I installed a pi OS over the network.
+Using the following guide https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html I installed a pi OS over the network.
+
+Install over network -> SSH (using Putty) -> Enable VPN -> VPN using Tiger VPN
+
+***Some caveats here - you NEED to have the Rpi official 27W power suppy (5V @ 5A) or you will have trouble booting from USB (SSD.)
+
+
 
 
 
