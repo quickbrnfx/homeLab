@@ -1,9 +1,34 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="HGmSd8YNeilH57w92loc">
-    <mxGraphModel>
+    <mxGraphModel dx="1196" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vXO8aVNColdHfelvocmU-13" value="«component»&lt;br&gt;&lt;b&gt;Active Fan&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vXO8aVNColdHfelvocmU-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vXO8aVNColdHfelvocmU-13">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXO8aVNColdHfelvocmU-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="280" width="250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vXO8aVNColdHfelvocmU-6" value="«component»&lt;br&gt;&lt;b&gt;Raspberry Pi5&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="vXO8aVNColdHfelvocmU-15">
+          <mxGeometry width="250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vXO8aVNColdHfelvocmU-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vXO8aVNColdHfelvocmU-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXO8aVNColdHfelvocmU-8" value="«component»&lt;br&gt;&lt;b&gt;Pi OS&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="vXO8aVNColdHfelvocmU-15">
+          <mxGeometry x="5.681818181818182" y="197.6470588235294" width="238.63636363636365" height="35.29411764705882" as="geometry" />
+        </mxCell>
+        <mxCell id="vXO8aVNColdHfelvocmU-9" value="«component»&lt;br&gt;&lt;b&gt;Pihole&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="vXO8aVNColdHfelvocmU-15">
+          <mxGeometry x="11.363636363636363" y="134.1176470588235" width="90.9090909090909" height="56.47058823529411" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
