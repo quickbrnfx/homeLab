@@ -23,11 +23,13 @@ Requirements:
 
 Integrated GPU
 
-4 - 8 Bays
+4 bays initally with room to expand to 8
 
-PCie expandability
+Motherboard Requiremets - 
 
-NVme expandability
+PCie expandability - Use pcie expansion for GPUs, 10G NIC, etc.
+
+NVme expandability (Min 2x Nvme, one to run OS, one to expand)
 
 NVMe vs SATA
 
@@ -54,7 +56,11 @@ https://www.amazon.com/LSI-Broadcom-9300-8i-PCI-Express-Profile/dp/B00DSURZYS
 Enterprise HDDs
 https://serverpartdeals.com/collections/manufacturer-recertified-drives/products/seagate-ironwolf-pro-st4000ne001-4tb-7-2k-rpm-sata-6gb-s-512e-nas-3-5-recertified-hard-drive
 
+
+
 tailscle (secure remote access)
+
+
 
 
 ### Setup
