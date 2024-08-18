@@ -29,7 +29,7 @@ Motherboard Requiremets -
 
 PCie expandability - Use pcie expansion for GPUs, 10G NIC, etc.
 
-NVme expandability (Min 2x Nvme, one to run OS, one to expand)
+NVme expandability (Min 2x Nvme, [one to run OS, VMs], etc, one to expand)
 
 NVMe vs SATA
 
