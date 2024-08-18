@@ -178,6 +178,18 @@ Install over network -> SSH (using Putty) -> Enable VPN -> VPN using Tiger VPN
 2. NAS style 3D printed enclosure
 
 
+### Main Home Server / NAS - The beginning
+
+Proxmox -
+
+Important Settings (https://www.youtube.com/watch?v=VAJWUZ3sTSI)
+
+Configure Updates
+
+VM best-practices
+
+
+
 
   
 </details>
