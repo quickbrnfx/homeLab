@@ -249,7 +249,7 @@ Next goals are getting portainer spun up and running
 
 Getting network security figured out so we can remote in from wherever
 
-
+monitoring services https://www.youtube.com/watch?v=vffhtqK3ZUg&t=92s&pp=ygURdW5yYWlkIG9uIHByb3htb3g%3D - may be able to help with resource usage, etc.
 
 
 
