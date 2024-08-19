@@ -233,9 +233,7 @@ Use solar-putty or any other SSH tool to access proxmox console
 
 ENABLE INTEL IOMMU - for PCI passthrough ([Link here](https://kb.protectli.com/kb/pci-passthrough-vt-d-proxmox-ve/))
 
-
-
-
+Installed debian onto a VM
 
 
 Proxmox -
@@ -245,6 +243,12 @@ Important Settings (https://www.youtube.com/watch?v=VAJWUZ3sTSI)
 Configure Updates
 
 VM best-practices
+
+
+Next goals are getting portainer spun up and running
+
+Getting network security figured out so we can remote in from wherever
+
 
 
 
