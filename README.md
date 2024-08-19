@@ -180,6 +180,64 @@ Install over network -> SSH (using Putty) -> Enable VPN -> VPN using Tiger VPN
 
 ### Main Home Server / NAS - The beginning
 
+Setup -
+
+Use Ventoy to create and organize ISOs
+
+Installation Instructions:
+
+How to Install Ventoy (new GUI version)
+
+1. Go to the Ventoy download website:
+
+https://sourceforge.net/projects/ventoy/files/
+
+2. Click on the box to Download Latest Version
+
+3. Right click on the file just downloaded and click on Extract Here.
+
+4. A new Ventoy folder will be created. Move it to a permanent location.
+
+5. Insert the USB stick.
+
+6. In the terminal, type or paste the following:
+
+cd ~/Downloads/ventoy-X.X.XX/
+
+Replace the Xs with the correct version number.
+
+7. Next, type or paste the following:
+
+./VentoyGUI.x86_64
+
+In the window that pops up, make sure the correct USB disk is selected, then click on Install or Update.
+
+8. When updating, the disk can be safely removed when finished.
+
+9. When doing a fresh install, mount the USB stick using Disks.
+
+10. Open the new Ventoy USB stick and drag or copy/paste the desired ISO files into the window.
+
+11. When done, Power Off the Ventoy Disk using Disks and wait until the wheel stops spinning before removing the drive. This may take quite a while.
+
+You can always add more .iso files later by starting at step 9.
+
+
+CONNECT SERVER TO ETHERNET BEFORE INSTALLING PROXMOX
+
+Install Proxmox
+
+Use web-gui to access
+
+Use solar-putty or any other SSH tool to access proxmox console
+
+ENABLE INTEL IOMMU - for PCI passthrough ([Link here](https://kb.protectli.com/kb/pci-passthrough-vt-d-proxmox-ve/))
+
+
+
+
+
+
 Proxmox -
 
 Important Settings (https://www.youtube.com/watch?v=VAJWUZ3sTSI)
