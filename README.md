@@ -5,6 +5,12 @@
 
 ### Why NAS?
 
+MOST IMPORTANT THINGS
+
+WHAT IS PURPOSE? ROLES? ETC
+
+NETWORK SECURITY
+
 Centralization
 
 Media Consumption
@@ -252,7 +258,12 @@ Getting network security figured out so we can remote in from wherever
 monitoring services https://www.youtube.com/watch?v=vffhtqK3ZUg&t=92s&pp=ygURdW5yYWlkIG9uIHByb3htb3g%3D - may be able to help with resource usage, etc.
 
 
+### Main Home Server / NAS - SECURITY
 
+![image](https://github.com/user-attachments/assets/e5805f97-7307-4d30-8460-c30bf23b2480)
+
+
+https://excalidraw.com/?#json=G46UxlBaGF_hoz6fRvYnx,y1iKoOjtQLrUYVqk89LGsQ
   
 </details>
 
