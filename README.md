@@ -260,7 +260,7 @@ monitoring services https://www.youtube.com/watch?v=vffhtqK3ZUg&t=92s&pp=ygURdW5
 
 ### Main Home Server / NAS - SECURITY
 
-![image](https://github.com/user-attachments/assets/e5805f97-7307-4d30-8460-c30bf23b2480)
+![image](![image](https://github.com/user-attachments/assets/0a1241d1-cbed-4b1d-ab47-8101e4322117)
 
 
 https://excalidraw.com/?#json=G46UxlBaGF_hoz6fRvYnx,y1iKoOjtQLrUYVqk89LGsQ
