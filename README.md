@@ -266,6 +266,13 @@ https://excalidraw.com/?#json=ca_Jyw8mqwaaUEVfS1FBX,LmhzyxWkSKLBkp-GszNbuQ
 
 ![image](https://github.com/user-attachments/assets/6072b2a9-928c-4e50-949b-5fd8e1eeaf44)
 
+
+Cybersecurity / hacking - 
+
+Kasm - https://kasmweb.com/ - isolated, disposable workspaces in browser
+
+https://www.youtube.com/watch?v=U7e-mcJdZok
+
   
 </details>
 
